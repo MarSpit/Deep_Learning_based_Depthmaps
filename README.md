@@ -16,9 +16,8 @@ The code was developed an tested on **Linux Ubuntu 20.04** in combination with *
 
 ## 2. Download the pretrained networks
 
-* https://drive.google.com/drive/folders/17cHob0D2pWDDSc8jJ8sYvuHlhRr_VOam?usp=sharing
-Download the pretrained weights here: [Weights](https://drive.google.com/drive/folders/17cHob0D2pWDDSc8jJ8sYvuHlhRr_VOam?usp=sharingGo) 
-Save them to a folder called *Trained_Networks* and put this folder in the repository.
+* Download the pretrained weights here: [Weights](https://drive.google.com/drive/folders/17cHob0D2pWDDSc8jJ8sYvuHlhRr_VOam?usp=sharingGo) 
+* Save them to a folder called *Trained_Networks* and put this folder in the repository.
 
 ## 3. Download Kitti Dataset
 
